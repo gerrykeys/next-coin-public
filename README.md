@@ -11,7 +11,7 @@ With Next Coin you can:
 - Add games in your favourites or hide games that you don't want to have
 - Access to detailed information about games machines
 - Use some builtin shaders
-- And obvioulsy RUN YOU GAMES!!!
+- And obvioulsy RUN YOUR GAMES!!!
 
 Next Coin is completely free.
 
