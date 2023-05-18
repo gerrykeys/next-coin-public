@@ -3,8 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/gerrykeys/next-coin-public/main/screenshots/boot.png"  width="600">
 
-Next Coin is a modern frontend application to manage your arcade games.
-With Next Coin you can:
+Next Coin is a modern frontend application for manage and play your arcade games. <br />
+It is based on [MAME](https://www.mamedev.org) emulator. With Next Coin you can:
 
 - Manage your romset
 - Download metadata and flyers of games
