@@ -12,7 +12,7 @@ It is based on [MAME](https://www.mamedev.org) emulator. With Next Coin you can:
 - Add games in your favourites or hide games that you don't want to have
 - Access to detailed information about games machines
 - Use some builtin shaders
-- Bezel / artwork support
+- Use Bezels / Artworks
 - And obvioulsy RUN YOUR GAMES!!!
 
 ## How much is it?
