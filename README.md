@@ -8,7 +8,7 @@ It is based on [MAME](https://www.mamedev.org) emulator. With Next Coin you can:
 
 - Manage your romset
 - Download metadata and flyers of games
-- Create collections
+- Create / Export / Import collections
 - Add games in your favourites or hide games that you don't want to have
 - Access to detailed information about games machines
 - Use some builtin shaders
