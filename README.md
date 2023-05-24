@@ -33,7 +33,7 @@ No!
 
 ## Do you need help?
 Use the **Discord channel** for everything about support / questions / bugs and new features request
- https://discord.com/channels/1103670441597472850/1103670442801242254
+https://discord.gg/jsK5TDDCBk
 
 
 
