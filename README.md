@@ -18,7 +18,7 @@ It is based on [MAME](https://www.mamedev.org) emulator. With Next Coin you can:
 ## How much is it?
 **Next Coin is completely free.**
 
-## What are the supported Platforms?
+## Which are the supported Platforms?
 Next Coin is only available for Windows x64 platform (for now).
 However it is a cross platform application under the hood.
 It may be released in future also for Unix platforms (MacOS/Linux)
