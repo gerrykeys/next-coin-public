@@ -1,3 +1,8 @@
+# Warning
+The project is not mantained anymore.
+I'm currenlty working on a new project about a new Game Launcher related also to the emulation world.
+Latest release of this software will work except for the metadata download service because the backend server is dismissed.
+
 
 # Welcome
 
